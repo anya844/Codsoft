@@ -54,9 +54,9 @@ public class Main
                     //get deposite amount from te user
                     deposit = sc.nextInt();
 
-                    //add the deposit amount to the total balanace
+                    //add the deposit amount to the total balance
                     balance = balance + deposit;
-                    System.out.println("Your Money has been successfully depsited");
+                    System.out.println("Your Money has been successfully deposited");
                     System.out.println("");
                     break;
 
